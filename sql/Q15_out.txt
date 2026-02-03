@@ -1,0 +1,9 @@
++---------------+----------------+--------------+----------------+
+| client_name   | performer_name | rating_score | num_of_ratings |
++---------------+----------------+--------------+----------------+
+| Natasha Jones | Eminem         |       5.0000 |              2 |
+| Aaron Bright  | The Beatles    |       5.0000 |              1 |
+| Aaron Gill    | BTS            |       5.0000 |              1 |
+| Aaron Hart    | Maroon 5       |       5.0000 |              1 |
+| Abigail Brown | Pink Floyd     |       5.0000 |              1 |
++---------------+----------------+--------------+----------------+

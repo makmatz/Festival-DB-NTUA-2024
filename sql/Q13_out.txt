@@ -1,0 +1,42 @@
++--------------+-----------------------+
+| performer_id | name                  |
++--------------+-----------------------+
+|            1 | The Beatles           |
+|            2 | Rolling Stones        |
+|            3 | Queen                 |
+|            4 | Michael Jackson       |
+|            5 | Madonna               |
+|            6 | Beyonce               |
+|            7 | Elton John            |
+|            8 | Pink Floyd            |
+|            9 | Nirvana               |
+|           10 | Taylor Swift          |
+|           11 | Kanye West            |
+|           12 | Adele                 |
+|           13 | Drake                 |
+|           14 | Coldplay              |
+|           15 | Lady Gaga             |
+|           16 | Bruno Mars            |
+|           17 | Eminem                |
+|           18 | Rihanna               |
+|           19 | Linkin Park           |
+|           20 | U2                    |
+|           21 | Maroon 5              |
+|           22 | Arctic Monkeys        |
+|           23 | Red Hot Chili Peppers |
+|           24 | Pearl Jam             |
+|           25 | Justin Bieber         |
+|           26 | Ed Sheeran            |
+|           27 | Katy Perry            |
+|           28 | Foo Fighters          |
+|           29 | Aerosmith             |
+|           30 | Britney Spears        |
+|           31 | Shakira               |
+|           32 | One Direction         |
+|           33 | Imagine Dragons       |
+|           34 | The Weeknd            |
+|           36 | Billie Eilish         |
+|           38 | Sia                   |
+|           39 | BTS                   |
+|           40 | Daft Punk             |
++--------------+-----------------------+

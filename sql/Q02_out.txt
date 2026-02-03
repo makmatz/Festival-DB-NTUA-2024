@@ -1,0 +1,26 @@
++-----------------+--------------+------------------------+
+| performer_name  | performer_id | participated_this_year |
++-----------------+--------------+------------------------+
+| Queen           |            3 | Yes                    |
+| Michael Jackson |            4 | Yes                    |
+| Madonna         |            5 | Yes                    |
+| Elton John      |            7 | Yes                    |
+| Taylor Swift    |           10 | Yes                    |
+| Lady Gaga       |           15 | Yes                    |
+| Bruno Mars      |           16 | Yes                    |
+| Rihanna         |           18 | Yes                    |
+| Maroon 5        |           21 | No                     |
+| Justin Bieber   |           25 | No                     |
+| Katy Perry      |           27 | No                     |
+| Britney Spears  |           30 | No                     |
+| Shakira         |           31 | No                     |
+| One Direction   |           32 | No                     |
+| Imagine Dragons |           33 | No                     |
+| Harry Styles    |           35 | No                     |
+| Sia             |           38 | No                     |
+| Adele           |           12 | Yes                    |
+| Ed Sheeran      |           26 | No                     |
+| Billie Eilish   |           36 | Yes                    |
+| Lorde           |           37 | No                     |
+| BTS             |           39 | No                     |
++-----------------+--------------+------------------------+

@@ -1,0 +1,16 @@
++----------+--------------------+
+| staff_id | name               |
++----------+--------------------+
+|       54 | Chelsea Key        |
+|       63 | Michael Grant      |
+|      106 | Mrs. Lisa Hughes   |
+|      141 | Justin Watts       |
+|      145 | Michael Montgomery |
+|      151 | Drew Fischer       |
+|      296 | James Howard       |
+|      300 | Deborah Wong       |
+|      334 | Stephen Fitzgerald |
+|      519 | Mark Williams      |
+|      557 | Ashley Brown       |
+|      559 | Sarah Olson        |
++----------+--------------------+

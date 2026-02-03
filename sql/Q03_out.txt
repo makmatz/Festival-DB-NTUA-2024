@@ -1,0 +1,16 @@
++-----------------------+
+| name                  |
++-----------------------+
+| The Beatles           |
+| Madonna               |
+| Nirvana               |
+| Taylor Swift          |
+| Lady Gaga             |
+| Arctic Monkeys        |
+| Red Hot Chili Peppers |
+| Justin Bieber         |
+| Katy Perry            |
+| Britney Spears        |
+| Sia                   |
+| Daft Punk             |
++-----------------------+

@@ -1,0 +1,12 @@
++----------+------------------------------------+----------------+
+| event_id | event_name                         | average_rating |
++----------+------------------------------------+----------------+
+|       13 | Record Safari DJ Session           | 3.80000000     |
+|       64 | Camping Center Music Bash          | no rating      |
+|      112 | VIP Lounge Evening at Rose Garden  | no rating      |
+|      159 | Do Lab Artistic Experience         | no rating      |
+|      163 | Record Safari DJ Session           | 3.40000000     |
+|      164 | Camping Center Music Bash          | 3.20000000     |
+|      184 | Do Lab Artistic Experience         | 2.80000000     |
+|      229 | Main Headliner Show at Pulse Stage | no rating      |
++----------+------------------------------------+----------------+

@@ -1,0 +1,24 @@
++------------+-----------------+-----------+-----------------+
+| event_year | events_attended | client_id | client1_name    |
++------------+-----------------+-----------+-----------------+
+|       2017 |               4 |      1778 | Amy Sanford     |
+|       2017 |               4 |      4667 | Amy Walker      |
+|       2018 |               4 |      3314 | Megan Foster    |
+|       2018 |               4 |      8649 | Julie Thomas    |
+|       2019 |               4 |      3516 | Jessica Smith   |
+|       2019 |               4 |      6412 | Tammy Hall      |
+|       2020 |               4 |      2062 | Erin Flores     |
+|       2020 |               4 |      3019 | Jose Carpenter  |
+|       2020 |               4 |      8541 | Sarah Turner    |
+|       2020 |               4 |      8689 | Julie White     |
+|       2022 |               4 |       662 | Sarah Lopez     |
+|       2022 |               4 |       834 | Kari Mcdowell   |
+|       2022 |               4 |      2876 | Alexis Gonzalez |
+|       2022 |               4 |      4542 | Sarah Shaw      |
+|       2022 |               4 |      8256 | Antonio Guzman  |
+|       2023 |               4 |       435 | Alexis Weiss    |
+|       2023 |               4 |      3847 | Rhonda Hobbs    |
+|       2023 |               4 |      4254 | Kayla Combs     |
+|       2023 |               4 |      5270 | Nicole Parker   |
+|       2023 |               4 |      8249 | Sierra Powell   |
++------------+-----------------+-----------+-----------------+
